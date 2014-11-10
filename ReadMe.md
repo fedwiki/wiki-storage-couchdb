@@ -1,4 +1,4 @@
-# Wiki Storage CouchDB [![Build Status](https://travis-ci.org/wesrc/wiki-storage-couchdb.svg?branch=master)](https://travis-ci.org/wesrc/wiki-storage-couchdb)
+# Wiki Storage CouchDB [![Build Status](https://travis-ci.org/fedwiki/wiki-storage-couchdb.svg?branch=master)](https://travis-ci.org/fedwiki/wiki-storage-couchdb)
 
 An experimental module to provide CouchDB storage for an external module for
 Federated Wiki, rather than being built into the core.
