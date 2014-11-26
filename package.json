@@ -1,7 +1,7 @@
 {
   "name": "wiki-storage-couchdb",
   "description": "CouchDB storage for Federated Wiki",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": {
     "name": "Leander Damme",
     "email": "leander@wesrc.com",
