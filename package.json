@@ -1,7 +1,7 @@
 {
   "name": "wiki-storage-couchdb",
   "description": "CouchDB storage for Federated Wiki",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "author": {
     "name": "Leander Damme",
     "email": "leander@wesrc.com",
@@ -17,6 +17,10 @@
       "name": "Nick Niemeir",
       "email": "nick.niemeir@gmail.com",
       "url": "http://nrn.io"
+    },
+    {
+      "name": "Thomas Kalka",
+      "email": "thomas.kalka@gmail.com"
     }
   ],
   "dependencies": {
